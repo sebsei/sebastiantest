@@ -1,3 +1,3 @@
 <?php
 
-echo "Faaack you!!!"
+echo "Faaack you!!!";
